@@ -1,0 +1,90 @@
+0 : life after
+1 : Any purchase will remove all ads
+2 : Do you want to continue?
+3 : SPIN
+4 : Coins Shop
+5 : Play
+6 : You WIN!
+7 : You lose!
+8 : Lost all lives?
+9 : Select Boosters:
+10 : NEXT
+11 : Crypto Spiral
+12 : Spread the Color
+13 : BOOM!
+14 : Multiblast Bomb
+15 : DAY
+16 : Watch VIDEO
+17 : SHARE
+18 : Level COMPLETED!
+19 : Level FAILED!
+20 : MAP
+21 : AGAIN
+22 : Goal
+23 : Refill all lives!
+24 : Your Target:
+25 : Thanks!
+26 : Congratulation!
+27 : Extra moves
+28 : Extra time
+29 : How to play
+30 : Crossblast
+31 : Package
+33 : Collect all ITEMS
+34 : Multiblast
+35 : Logout
+36 : Connect
+37 : Invite
+38 : FULL
+39 : Use it to get Multiblast
+40 : BUY
+41 : MOVES
+42 : Combine more coins the same color for WIN!
+43 : SCORE
+44 : Buy Booster!
+45 : You didn't fill Color everywhere
+46 : Spread the Color everywhere
+47 : You got coins
+48 : Combine 5 coins in one row, to create a bomb. It destroys all items on the field with the same currency coins.
+49 : Combine more coins the same currency  for WIN!
+50 : You can switch coin Spiral with any currency on the game field.
+51 : Combine an item above the coin with others to spread coins more.
+52 : Combine 4 coins to create it. Striped currency can destroy all row.
+53 : Combine 5 coin like below to create it. Packaged currency can destroy all items around itself.
+54 : Multiblast
+55 : Collect the coins
+56 : You didn't collect the coins
+57 : Collect currency 
+58 : You didn't collect the currencies
+59 : Destroy white squares
+60 : You didn't destroy the white squares
+61 : Spread the color everywhere
+62 : You didn't spread the color 
+63 : Destroy coins blocks
+64 : You didn't destroy all coin blocks
+65 : Gives you the 5 extra moves
+66 : Places a package item on the game field
+67 : Places a Crossblast item on the game field
+68 : Gives you the 30 extra seconds
+69 : Destroys one currency 
+70 : Places a Multiblast item on the game field
+71 : Free currency switch
+72 : Destroys the items in an area
+73 : Places a Special coin on the game field
+74 : PLAY
+75 : Privacy
+76 : Loading...
+77 : TIME
+78 : Bomb
+79 : Free move
+80 : Explodes area
+81 : Special coin
+82 : Free
+83 : Get at least one star
+84 : You didn't get a star
+85 : You got the boost
+86 : You got life
+87 : Coins
+88 : Life
+89 : Level
+90 : Tap to Skip
